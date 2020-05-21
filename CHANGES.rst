@@ -1,6 +1,10 @@
 Changelog
 =========
 
+Bug fixes:
+
+ - Change the image caption template to use ``<figure>`` and ``<figcaption>``.
+
 3.0.5 (2018-06-04)
 ------------------
 
